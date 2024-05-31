@@ -43,7 +43,7 @@ BSeOE6Fuwg==
         ca_cert="${cacert}"
         altsubject_match="DNS:radius.hhu.de"
         phase2="auth=PAP"
-        identity="@EDUROAM_IDENTITY@"
+        identity="astawifi@hhu.de"
         anonymous_identity="eduroam@hhu.de"
         group=CCMP TKIP
       '';

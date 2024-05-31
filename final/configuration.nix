@@ -15,7 +15,7 @@
 
   users.users."studierende" = {
     isNormalUser = true;
-    initialPassword = "1";
+    initialPassword = "hhu";
     extraGroups = [ "wheel" ]; # Enable ‘sudo’ for the user.
   };
 
