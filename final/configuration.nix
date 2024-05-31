@@ -11,7 +11,7 @@
   
   services.openssh.enable = true;
 
-  system.stateVersion = "23.05"; # Did you read the comment?
+  system.stateVersion = "23.11"; # Did you read the comment?
 
   users.users."studierende" = {
     isNormalUser = true;
